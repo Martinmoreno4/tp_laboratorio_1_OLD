@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599951959 source:c:\users\user\desktop\utn\laboratorio 1 programacion\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1599951648 c:\users\user\desktop\utn\laboratorio 1 programacion\tp1\biblioteca.h
+
